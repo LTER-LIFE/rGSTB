@@ -1,0 +1,9 @@
+Package: rGSTB
+Type: Package
+Title: Programmatic and graphical interfaces to LTER-LIFE's NatureDataCube
+Version: 0.1
+Date: 2026-07-28
+Author: Bruno Marcos, Lisa Tostrams
+Maintainer: Bruno Marcos <brunoasmarcos@gmail.com>, Lisa Tostrams <lisa.tostrams@rivm.nl>
+Description: A set of functions for formatting and manipulating geospatial datasets, as well as environmental annotation of ecological/biodiversity datasets, for dutch nature areas.
+License: Apache Version 2.0
